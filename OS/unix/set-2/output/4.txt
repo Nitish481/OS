@@ -1,0 +1,6 @@
+Home directory: /home/user1
+OS type: GNU/Linux
+OS version: "Ubuntu 16.04.7 LTS"
+OS release number: #146~16.04.1-Ubuntu SMP Tue Apr 13 09:27:15 UTC 2021
+Kernel version: 4.15.0-142-generic
+Current path: /home/user1/bin:/home/user1/.local/bin:/home/user1/vscode/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin

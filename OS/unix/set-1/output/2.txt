@@ -1,0 +1,6 @@
+Enter the basic salary:
+256213
+
+Dearness Allowance: 76863.90
+House Rent Allowance: 64053.25
+Net Salary: 397130.15

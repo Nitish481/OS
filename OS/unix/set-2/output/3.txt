@@ -1,0 +1,4 @@
+Vendor ID:  GenuineIntel
+Model Name:  Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz
+CPU MHz:  1681.579
+Cache size:  3072 KB

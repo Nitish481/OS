@@ -1,0 +1,6 @@
+1.sh is a file
+2.sh is a file
+3.sh is a file
+4.sh is a file
+5.sh is a file
+output is a directory

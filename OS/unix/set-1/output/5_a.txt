@@ -1,0 +1,10 @@
+Enter the user login name:
+
+Detailed user login information of user user1:
+Username: user1
+Password: x
+User Id: 1001
+Group Id: 1001
+User Id Info: USER1,,,
+Home Directory: /home/user1
+Login Shell: /bin/bash

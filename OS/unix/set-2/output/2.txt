@@ -1,0 +1,45 @@
+/home/user1/bin
+This directory does not exist
+
+/home/user1/.local/bin
+This directory does not exist
+
+/home/user1/vscode/bin
+Permissions: drwxr-xr-x
+Modification Times: Apr 5 04:51
+
+/usr/local/sbin
+Permissions: drwxr-xr-x
+Modification Times: Aug 7 2020
+
+/usr/local/bin
+Permissions: drwxr-xr-x
+Modification Times: Aug 7 2020
+
+/usr/sbin
+Permissions: drwxr-xr-x
+Modification Times: Dec 8 11:37
+
+/usr/bin
+Permissions: drwxr-xr-x
+Modification Times: Dec 8 11:39
+
+/sbin
+Permissions: drwxr-xr-x
+Modification Times: Dec 8 11:29
+
+/bin
+Permissions: drwxr-xr-x
+Modification Times: Dec 8 11:31
+
+/usr/games
+Permissions: drwxr-xr-x
+Modification Times: Aug 7 2020
+
+/usr/local/games
+Permissions: drwxr-xr-x
+Modification Times: Aug 7 2020
+
+/snap/bin
+This directory does not exist
+

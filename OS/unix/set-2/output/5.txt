@@ -1,0 +1,26 @@
+Summary of the disk space usage /home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-1 & its subdirectories:
+
+In bytes:
+4940	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-1/output
+11514	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-1
+
+In kilobytes or megabytes:
+32K	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-1/output
+56K	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-1
+
+Total disk space usage:
+56K	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-1
+
+Summary of the disk space usage /home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-2 & its subdirectories:
+
+In bytes:
+6077	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-2/output
+13053	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-2
+
+In kilobytes or megabytes:
+24K	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-2/output
+48K	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-2
+
+Total disk space usage:
+48K	/home/user1/Documents/subhajeetmuhurimca51/unix-shell/set-2
+

@@ -1,0 +1,4 @@
+Enter the five digit number:
+54321
+
+Sum of digits of num: 15
